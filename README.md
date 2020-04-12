@@ -8,7 +8,10 @@ SMBIOS: iMac 19,1
 
 OpenCore Version : 0.5.7
 
+## Config—–PlatformInfo—–Generic 下的信息请自行补充完整
+ 
 #### 具体配置如下：
+
 
 
 | 硬件| 型号    |
