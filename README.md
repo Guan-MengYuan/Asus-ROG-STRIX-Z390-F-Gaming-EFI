@@ -17,7 +17,7 @@ OpenCore Version : 0.5.7
 | 硬件| 型号    |
 |----|----------|
 | 主板  | ASUS ROG Z390-F Gaming |
-| CPU  | Intel i7-9700   |
+| CPU  | Intel i7-9700K   |
 | 显卡  | 盈通 RX5700XT 樱瞳 |
 | 内存  | 芝奇皇家戟 DDR4 3200 8G * 4   |
 | 固态  | SN750 500G *2   |
