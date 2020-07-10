@@ -27,7 +27,7 @@ OpenCore Version : 0.5.9
 #### 完善程度：
 
 
-![OSVersion](./pic/Xnip2020-03-21_16-57-03.jpg)
+![OSVersion](./pic/Xnip2020-07-10_19-43-03.jpg)
 
 
 
