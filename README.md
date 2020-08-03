@@ -2,11 +2,11 @@
 
 #### 版本说明
 
-系统版本：macOS Catalina 10.15.5
+系统版本：macOS Catalina 10.15.6
 
 SMBIOS: iMac 19,1
 
-OpenCore Version : 0.5.9
+OpenCore Version : 0.6.0
 
 ## Config—–PlatformInfo—–Generic 下的信息请自行补充完整
  
@@ -27,7 +27,7 @@ OpenCore Version : 0.5.9
 #### 完善程度：
 
 
-![OSVersion](./pic/Xnip2020-07-10_19-43-03.jpg)
+![OSVersion](./pic/Xnip2020-08-03_19-09-21.jpg)
 
 
 
